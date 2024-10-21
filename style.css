@@ -41,3 +41,15 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.car-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+form input, form textarea, form button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+}
